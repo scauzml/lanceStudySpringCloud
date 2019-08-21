@@ -7,7 +7,11 @@
     <groupId>com.lance.2019.springcloud</groupId>
     <artifactId>lance.springCloud</artifactId>
     <version>1.0-SNAPSHOT</version>
-<!--    以pom文件进行打包-->
+
+    <modules>
+        <module>lance.springcloud.api</module>
+    </modules>
+    <!--    以pom文件进行打包-->
     <packaging>pom</packaging>
 
     <properties>
