@@ -8,8 +8,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="lancespringcloudapi" />
-        <module name="lancespringclouddeptconsumer80" />
+        <module name="lancespringcloudeureka7002" />
+        <module name="lancespringcloudeureka7003" />
         <module name="lancespringclouddeptprovider8001" />
+        <module name="lancespringcloudeureka7001" />
+        <module name="lancespringclouddeptconsumer80" />
       </profile>
     </annotationProcessing>
   </component>

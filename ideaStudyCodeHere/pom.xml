@@ -12,6 +12,9 @@
         <module>lance.springcloud.api</module>
         <module>lance.springcloud.dept.provider.8001</module>
         <module>lance.springcloud.dept.consumer.80</module>
+        <module>lance.springcloud.eureka.7001</module>
+        <module>lance.springcloud.eureka.7002</module>
+        <module>lance.springcloud.eureka.7003</module>
     </modules>
     <!--    以pom文件进行打包-->
     <packaging>pom</packaging>
